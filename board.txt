@@ -1,0 +1,80 @@
+
+0 Go stay_place None 0 0
+
+1 Salvador city Brazil 60 18
+
+2 Chance stay_place None 0 0
+
+3 Rio city Brazil 70 21
+
+4 IncomeTax stay_place None 0 0
+
+5 Tehran city Iran 80 21
+
+6 GasStation service_centers None 150 45
+
+7 Karaj city Iran 90 27
+
+8 Qazvin city Iran 80 24
+
+9 Jail stay_place None 0 0
+
+10 Venice city Italy 100 30
+
+11 Electricity Company service_centers	None 150 45
+
+12 Milan city Italy 110 33
+
+13 Rome city Italy 100 30
+
+14 Airport1 service_centers None 200 60
+
+15 Frankfurt city Germany 120 36
+
+16 Treasure stay_place None 0 0
+
+17 Munich city Germany 170 51
+
+18 Berlin city Germany 150 45
+
+19 FreeParking stay_place None 0 0
+
+20 Madrid city Spain 210 63
+
+21 Chance stay_place None 0 0
+
+22 Valencia city Spain 190 57
+
+23 Granada city Spain 180 54
+
+24 LuxuryTax stay_place None 0 0
+
+25 Lyon city France 220 66
+
+26 Toulouse city France 240 72
+
+27 WaterCompany service_centers None 200 60
+
+28 Paris city France 250 75
+
+29 Auction(Trade) stay_place None 0 0
+
+30 Treasure stay_place None 0 0
+
+31 Liverpool city England 280 84
+
+32 Manchester city England 300 90
+
+33 Chance stay_place None 0 0
+
+34 London city England 320 96
+
+35 Airport2 service_centers None 200 60
+
+36 LosAngeles city USA 320 96
+
+37 SanFrancisco city USA 350 105
+
+38 ShopingMall service_centers None 100 30
+
+39 NewYork city USA 380 114
